@@ -13,3 +13,5 @@ Migration des tables
 ```
 php artisan migrate
 ```
+
+Le BO se trouve dans la partie /admin
