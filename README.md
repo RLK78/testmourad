@@ -14,4 +14,8 @@ Migration des tables
 php artisan migrate
 ```
 
-Le BO se trouve dans la partie /admin
+### Informations
+
+Le BO se trouve dans /admin
+
+Il faut cliquer sur le lien dans le mail envoyé aux répondants pour accéder au questionnaire de la partie FO
